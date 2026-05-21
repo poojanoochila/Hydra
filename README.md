@@ -10,6 +10,7 @@ Hydra is a fast and powerful password brute-forcing tool used by cybersecurity p
 - Using wordlists for password attacks
 - Importance of strong authentication mechanisms
 - Defensive techniques against brute-force attacks
+- Done practical on Molly's webpage  
 
 ## Protocols Supported by Hydra
 - SSH
